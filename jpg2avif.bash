@@ -1,5 +1,5 @@
 #/bin/bash
-#        $0			  $1	$2	$3			    $4
+#        $0		$1	$2	$3		$4
 #usage:  jpg2avif	10	95	yuv444p10le	input
 # getu:  input❤.avif
 
